@@ -34,7 +34,7 @@ Repite el proceso agregando más ejercicios progresivamente. Este fresario tiene
 
 Si encuentras algún error o tienes sugerencias para mejorar el contenido de **Fresario Alemán**, puedes contribuir de dos maneras:  
 
- **Deja un comentario** directamente en esta página ó
+ **Deja un comentario** directamente en [Ankiweb](https://ankiweb.net/shared/info/1313413910)  ó
  **Haz un Pull Request** en el repositorio del proyecto en GitHub.  
 
 📌 **Enlace al repositorio:** [Fresario Alemán en GitHub](https://github.com/ilbrandori/fresario-aleman)  

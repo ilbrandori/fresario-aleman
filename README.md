@@ -27,7 +27,18 @@ Estudiar 15-30 minutos diarios de forma intensa es más efectivo que sesiones la
    - **[3] Bien** – Algo de dificultad, pero correcto.  
    - **[4] Fácil** – Respondí rápido y sin esfuerzo.  
 
-Repite el proceso agregando más ejercicios progresivamente. Este fresario tiene suficiente material para un año de estudio. Sumérgete en las profundas y caudalosas aguas de este nuevo lenguaje y no te quedes en la playa, mojándote los pies. ¡Ánimo y valentía, tú puedes hacerlo! ¡Dale un 👍 y deja tu comentario para ayudar a mejorar este recurso!  
+Repite el proceso agregando más ejercicios progresivamente. Este fresario tiene suficiente material para un año de estudio. Sumérgete en las profundas y caudalosas aguas de este nuevo lenguaje y no te quedes en la playa, mojándote los pies. ¡Ánimo y valentía, tú puedes hacerlo! 
+
+
+##  Comentarios y sugerencias  
+
+Si encuentras algún error o tienes sugerencias para mejorar el contenido de **Fresario Alemán**, puedes contribuir de dos maneras:  
+
+ **Deja un comentario** directamente en esta página ó
+ **Haz un Pull Request** en el repositorio del proyecto en GitHub.  
+
+📌 **Enlace al repositorio:** [Fresario Alemán en GitHub](https://github.com/ilbrandori/fresario-aleman)  
+
 
 
 ## **Material de referencia**  
@@ -51,6 +62,7 @@ Muchas frases y ejercicios se inspiran de los siguientes libros y recursos recom
 📖 Rüffel, F. (2020). Deutsch B2 Sprachbausteine und Satzbau (mit Lösungen): 50 Arbeitsblätter für Lernende oder Lehrende. Independently published. ISBN-13: 978-3752607451.
 
 🔗 Deutschkurse Passau. (s.f.). Deutsch – Aber Hallo! Listen & Tabellen für die Mittel- und Oberstufe B1-C2. PDF disponible gratuitamente en: https://deutschkurse-passau.de/JM/images/stories/LISTEN/listen-tabellen.pdf
+
 
 
 ## **Licencia y uso**  
